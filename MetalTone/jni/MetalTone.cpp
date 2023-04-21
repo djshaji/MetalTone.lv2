@@ -9,7 +9,7 @@
 #include <lv2.h>
 
 #include "zita-resampler-1.1.0/resampler.cc"
-#include "zita-resampler-1.1.0resampler-table.cc"
+#include "zita-resampler-1.1.0/resampler-table.cc"
 #include "zita-resampler/resampler.h"
 #include "gx_resampler.cc"
 
